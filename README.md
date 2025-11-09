@@ -21,14 +21,9 @@
 
 </div>
 
---
-
-### 🌐 Links
-
 - Portfolio → https://rohanrv.tech  
 - X → https://x.com/Rohanvrnkr  
 - LinkedIn → https://linkedin.com/in/rohan-vernekar-b57913283  
 
---
 
 > Keep building. Stay curious. 🚀
