@@ -1,11 +1,6 @@
-<h2 align="center">👋 Hi, I'm Rohan</h2>
-
-<p align="center">Full-Stack Developer | AI • Android</p>
-<p align="center">Building AI products</p>
+<h2 align="center">Hi, I'm Rohan Vernekar</h2>
 
 ---
-
-### 📊 GitHub Analytics
 
 <div align="center">
 
@@ -32,7 +27,7 @@
 ### 🌐 Links
 
 - Portfolio → https://rohanrv.tech  
-- GitHub → https://github.com/Rohanvernekarr  
+- X → https://x.com/Rohanvrnkr  
 - LinkedIn → https://linkedin.com/in/rohan-vernekar-b57913283  
 
 ---
