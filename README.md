@@ -10,14 +10,14 @@
 ### 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Rohanvernekarr&show_icons=true&theme=tokyonight)
 
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?Rohanvernekarr=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rohanvernekarr&layout=compact&theme=tokyonight)
 
 ![Streak](https://streak-stats.demolab.com/?user=Rohanvernekarr&theme=tokyonight)
 
 ---
 
 ### 🛠 Tech Stack
-- JavaScript, TypeScript, Python, C
+- JavaScript, TypeScript, C++, C
 - React , Next.js, Node.js, Express
 - MongoDB, PostgreSQL, Firebase, Supabase
 - Docker, AWS, Android Studio
