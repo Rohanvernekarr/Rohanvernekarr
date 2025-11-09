@@ -1,16 +1,35 @@
-## Hi there 👋
+# Hi, I'm Rohan 👋
 
-<!--
-**Rohanvernekarr/Rohanvernekarr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- Full-stack developer (MERN + Android + AI)
+- Loves AR, Web3 & AI projects
+- Building cool products & startups🔥
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Rohanvernekarr&show_icons=true&theme=tokyonight)
+
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?Rohanvernekarr=YOUR_USERNAME&layout=compact&theme=tokyonight)
+
+![Streak](https://streak-stats.demolab.com/?user=Rohanvernekarr&theme=tokyonight)
+
+---
+
+### 🛠 Tech Stack
+- JavaScript, TypeScript, Python, C
+- React , Next.js, Node.js, Express
+- MongoDB, PostgreSQL, Firebase, Supabase
+- Docker, AWS, Android Studio
+
+---
+
+### 🏆 Achievements
+- Hackathon Finalist 🌟
+- Building AI & AR Apps 👓🤖
+
+---
+
+### 📫 Connect
+[LinkedIn](#) | [Portfolio](#) | [Twitter](#)
+
