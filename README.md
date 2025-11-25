@@ -1,6 +1,5 @@
 <h2 align="center">Hi, I'm Rohan Vernekar</h2>
 
----
 
 ## 💻 Tech Stack
 
@@ -29,11 +28,13 @@
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
 
----
 
 - Portfolio → https://rohanrv.tech  
 - X → https://x.com/Rohanvrnkr  
 - LinkedIn → https://linkedin.com/in/rohan-vernekar-b57913283  
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="1000">
+
 
 
 > Keep building. Stay curious. 🚀
