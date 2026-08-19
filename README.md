@@ -19,7 +19,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
 
-- Portfolio → https://rohanrv.tech  
+- Portfolio → https://portfolioo-eight-livid.vercel.app/ 
 - X → https://x.com/Rohanvrnkr  
 - LinkedIn → https://linkedin.com/in/rohan-vernekar-b57913283  
 
